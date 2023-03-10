@@ -1,4 +1,6 @@
 # Email_Tracker
+The above code is a Python code that creates a simple backend architecture for tracking when an email is opened. The architecture is implemented using the Flask web framework and SQLite database.
+
 To implement the above code, follow these steps:
 
 
