@@ -7,7 +7,7 @@ To implement the above code, follow these steps:
 
 1.Install the required dependencies by running the command pip install flask sqlite3.
 
-2.Run the email-tracker.py file in VS Code or PyCharm
+2.Run the email_tracker.py file in VS Code or PyCharm
 
 3.The application should now be running and listening for HTTP requests on the default port 5000.
 
