@@ -17,6 +17,6 @@ To implement the above code, follow these steps:
 
 5.The response should be a 1x1 transparent GIF image, indicating that the email open was tracked successfully.
 
-6.To view the tracked data, email_tracker.db file created in the same folder in which email_tracker.py file is available (you can connect to the SQLite database using a tool such as DB Browser for SQLite and run a SELECT query on the email_tracking table).
+6.Check the email_tracker.db file in the same directory as your Python file to see the tracking data that has been saved (you can connect to the SQLite database using a tool such as DB Browser for SQLite and run a SELECT query on the email_tracking table).
 
 7.email_tracker.db file contains the no of times the email has been opened before as well as opening time. To View the Content of email_tracker.db file visit https://inloop.github.io/sqlite-viewer/ 
